@@ -13,3 +13,18 @@ The instructions for this mini project are divided into the following subsection
 
 •	Create the Crowdfunding Database				25/100
 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# Files Included
+
+ETL_Mini_Project_LPineda_MRockafellow_MHelotie.ipynb --- Primary Jupyter notebook for extracting data from XLSX files
+
+QuickDBD-ERD-Project.png --- Screenshot from QuickDBD webpage, where ERD was created
+
+crowdfunding_db_schema.sql --- SQL script to create Tables and set PK/FK constraints
+
+SQL-ImportCSVsIntoTables.sql --- SQL script to import CSV files into empty Tables
+
+SQL_Results.md --- ReadMe file to show SQL output screenshots
+
