@@ -29,3 +29,12 @@ SQL-ImportCSVsIntoTables.sql --- SQL script to import CSV files into empty Table
 
 SQL_Results.md --- ReadMe file to show SQL output screenshots
 
+
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+## PLEASE NOTE:
+Attribution is providing acknowledgement to the source of the information (text, image, dataset, etc.) you are using. Regardless of whether the referenced source is in the public domain, it is valuable to include attribution, to give authority to your information as well as to offer a source path that allows the reader to learn more. If you must clear permission from the source owner to include the information in your work, often the source owner will provide you with specific language to copy and paste verbatim as your attribution. If no specific language is requested/required by the source owner, attribution should usually include the creator and title of the work, the date created, and where the work can be found. Do not confuse attribution with citation... citation names the sources used within your work; attribution gives credit to the source holder for using their intellectual property.
