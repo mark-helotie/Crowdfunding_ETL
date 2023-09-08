@@ -38,7 +38,7 @@ QuickDBD-ERD-Project.png --- Screenshot from QuickDBD webpage, where ERD was cre
 
 crowdfunding_db_schema.sql --- SQL script to create Tables and set PK/FK constraints
 
-SQL-ImportCSVsIntoTables.sql --- SQL script to import CSV files into empty Tables
+crowdfunding_db_ImportCSVs.sql --- SQL script to import CSV files into empty Tables
 
 SQL_Results.md --- ReadMe file to show SQL output screenshots
 
