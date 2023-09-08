@@ -24,7 +24,7 @@ The instructions for this mini project are divided into the following subsection
 
 3) Run 'crowdfunding_db_schema.sql' SQL script in PgAdmin to create tables and key constraints.
 
-4) Run 'SQL-ImportCSVsIntoTables.sql' SQL script to import the 4 CSVs into the SQL tables.
+4) Run 'crowdfunding_db_ImportCSVs.sql' SQL script to import the 4 CSVs into the SQL tables.
 
 5) Confirm data exists in each table by running 'SELECT *' SQL statements.
 
