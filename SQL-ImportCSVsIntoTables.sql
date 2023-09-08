@@ -1,7 +1,8 @@
 ﻿-- Project 2 -- Crowdfunding_ETL
 
 -- This SQL script assumes the tables have already been created with the 'crowdfunding_db_schema.sql' script
--- You will need to adjust the PATH to your local CSV files.
+
+-- IMPORTANT!!!! ---> You will need to adjust the PATH to your local CSV files.
 
 -- Import data into tables from CSVs
 COPY category
