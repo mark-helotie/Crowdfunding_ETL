@@ -14,6 +14,19 @@ The instructions for this mini project are divided into the following subsection
 
 •	Create the Crowdfunding Database				25/100
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+## Our process for this Project was as follows:
+
+1) Run Jupyter script against the XLSX files, which creates the 4 CSV files.
+
+2) Create the new (empty) 'crowdfunding_db' database manually in PgAdmin.
+
+3) Run 'crowdfunding_db_schema.sql' SQL script in PgAdmin to create tables and key constraints.
+
+4) Run 'SQL-ImportCSVsIntoTables.sql' SQL script to import the 4 CSVs into the SQL tables.
+
+5) Confirm data exists in each table by running 'SELECT *' SQL statements.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
