@@ -1,4 +1,4 @@
-?-- Project 2 -- Crowdfunding_ETL
+-- Project 2 -- Crowdfunding_ETL
 
 -- This SQL script assumes the tables have already been created with the 'crowdfunding_db_schema.sql' script
 
